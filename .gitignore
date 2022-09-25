@@ -32,3 +32,4 @@ target/
 
 # env variables
 .env
+local.db
